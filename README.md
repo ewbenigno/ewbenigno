@@ -1,12 +1,8 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   Finance × Technology                                   ║
-║   Where two worlds converge                              ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000510,50:0A2A4A,100:1F4E79&height=200&text=Ewerson%20Benigno&fontColor=ffffff&fontS
+
 ```
 
 # Ewerson Benigno
