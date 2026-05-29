@@ -1,7 +1,9 @@
 <div align="center">
 
 ```
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000510,50:0A2A4A,100:1F4E79&height=200&text=Ewerson%20Benigno&fontColor=ffffff&fontS
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000510,50:0A2A4A,100:1F4E79&height=200&text=Ewerson%20Benigno&fontColor=ffffff&fontSize=36&desc=f(x)
+
+%20%3D%20Finance%20%E2%88%A9%20Technology&descAlignY=75&descSize=14&descColor=8ab4d4&animation=twinkling)
 
 ```
 
