@@ -9,7 +9,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerson-benigno-3250721a1)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveiraewerson180@gmail.com)
-[![DIO](https://img.shields.io/badge/DIO-0077B5?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)](https://web.dio.me)
 
 </div>
 
@@ -17,7 +16,7 @@
 
 ## 🇧🇷 Sobre mim
 
-Sou um profissional híbrido na interseção entre **Finanças e Tecnologia** — não migrei de uma área para outra, estou construindo domínio nas duas ao mesmo tempo.
+Sou um profissional híbrido na interseção entre **Finanças e Tecnologia**, não migrei de uma área para outra, estou construindo domínio nas duas ao mesmo tempo.
 
 Com formação em **Gestão Financeira**, desenvolvo soluções onde o raciocínio analítico financeiro se encontra com as ferramentas técnicas modernas. Acredito que profissionais capazes de transitar entre esses dois mundos têm um diferencial raro e cada vez mais valorizado.
 
@@ -27,7 +26,7 @@ Com formação em **Gestão Financeira**, desenvolvo soluções onde o raciocín
 
 ## 🇺🇸 About me
 
-I'm a hybrid professional at the intersection of **Finance & Technology** — not transitioning from one field to another, but building expertise in both simultaneously.
+I'm a hybrid professional at the intersection of **Finance & Technology**, not transitioning from one field to another, but building expertise in both simultaneously.
 
 With a background in **Financial Management**, I develop solutions where analytical financial thinking meets modern technical tools. Professionals who can navigate both worlds are rare — and that's exactly where I operate.
 
